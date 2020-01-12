@@ -1,0 +1,64 @@
+{
+    "name": "@sweetcom/cli",
+    "version": "0.0.7",
+    "description": "Client that allows to develop react applications faster",
+    "main": "index.js",
+    "bin": {
+        "sweet": "index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "http://src.sweetcom75.fr/Sweetcom75/cli.git"
+    },
+    "files": [
+        "template",
+        "index.js",
+        "package.json",
+        "README.md"
+    ],
+    "keywords": [
+        "fast",
+        "easy",
+        "sweet",
+        "sweetcom",
+        "sweetcom75",
+        "react",
+        "react-dom",
+        "app",
+        "application",
+        "spa"
+    ],
+    "author": "Hassani Ayoub <hassani.ayoub@gmail.com>",
+    "license": "ISC",
+    "peerDependenciesMeta": {
+        "sass": {
+            "optional": true
+        },
+        "fibers": {
+            "optional": true
+        }
+    },
+    "dependencies": {
+        "@babel/core": "^7.6.0",
+        "@babel/plugin-proposal-class-properties": "^7.5.5",
+        "@babel/preset-env": "^7.6.0",
+        "@babel/preset-react": "^7.0.0",
+        "@sweetcom/colors": "git+http://git.sweetcom75.fr/npm/colors.git",
+        "babel-loader": "^8.0.6",
+        "copy-webpack-plugin": "^5.1.1",
+        "css-loader": "^3.2.0",
+        "file-loader": "^4.2.0",
+        "html-webpack-plugin": "^3.2.0",
+        "jsdoc": "^3.6.3",
+        "mini-css-extract-plugin": "^0.8.0",
+        "node-sass": "^4.12.0",
+        "prop-types": "^15.7.2",
+        "react": "^16.12.0",
+        "react-dom": "^16.12.0",
+        "sass-loader": "^8.0.0",
+        "style-loader": "^1.0.0",
+        "webpack": "^4.40.2",
+        "webpack-dev-server": "^3.8.1",
+        "webpack-node-externals": "^1.7.2"
+    }
+}

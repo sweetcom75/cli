@@ -1,0 +1,15 @@
+{
+  "name": "FOLDERNAME",
+  "version": "0.0.1",
+  "description": "sweet react base App",
+  "license": "MIT",
+  "scripts": {
+    "start": "sweet start",
+    "build": "sweet build"
+  },
+  "main": "./src/index.js",
+  "dependencies": {
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  }
+}
