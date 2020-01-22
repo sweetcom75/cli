@@ -11,6 +11,7 @@ Is a command line cli that will run build and init SweetApps
 ### dependencies : 
  * nodejs >= 11
  * List of Dependencies 
+    * @sweetcom/colors
     * webpack
     * webpack-dev-server
     * webpack-node-externals

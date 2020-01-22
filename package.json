@@ -8,7 +8,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "http://src.sweetcom75.fr/Sweetcom75/cli.git"
+        "url": "https://github.com/sweetcom75/cli.git"
     },
     "files": [
         "template",
@@ -43,8 +43,9 @@
         "@babel/plugin-proposal-class-properties": "^7.5.5",
         "@babel/preset-env": "^7.6.0",
         "@babel/preset-react": "^7.0.0",
-        "@sweetcom/colors": "git+http://git.sweetcom75.fr/npm/colors.git",
+        "@sweetcom/colors": "git+https://github.com/sweetcom75/colors.git",
         "babel-loader": "^8.0.6",
+        "clean-webpack-plugin": "^3.0.0",
         "copy-webpack-plugin": "^5.1.1",
         "css-loader": "^3.2.0",
         "file-loader": "^4.2.0",
@@ -57,7 +58,7 @@
         "react-dom": "^16.12.0",
         "sass-loader": "^8.0.0",
         "style-loader": "^1.0.0",
-        "webpack": "^4.40.2",
+        "webpack": "^4.41.5",
         "webpack-dev-server": "^3.8.1",
         "webpack-node-externals": "^1.7.2"
     }
