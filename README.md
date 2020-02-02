@@ -6,10 +6,10 @@
 
 Is a command line cli that will run build and init SweetApps 
 
-`sweet` command make the creation, development and build react web applications faster and easier.
+`sweet` command helps make the creation, development and build react web applications faster and easier.
+Feel free to try it, and if you do so, please give us your feed back [@sweet/cli](http://cli.sweetcom75.fr/)
 
-
-with a single dependency you'll be able to : 
+with a single terminal application you'll be able to : 
 * **create** an application from a very simple template including react and react-dom as a dependency
 * **start** this application in development mode with the `hot reload module` active this way you'll be faster writing your code
 * **build** a minimized version for production easy and simple to deploy
@@ -17,6 +17,7 @@ with a single dependency you'll be able to :
  
 ### Basic usage:
 To install the command line cli run : 
+
 ~~~
 npm install -g @sweetcom/cli
 ~~~
