@@ -1,7 +1,7 @@
 {
   "name": "FOLDERNAME",
   "version": "0.0.1",
-  "description": "sweet react base App",
+  "description": "sweet react App",
   "license": "MIT",
   "scripts": {
     "start": "sweet start",
