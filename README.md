@@ -36,10 +36,10 @@ sweet build
 
 
 ### MACOSX:
-if your using a mac make sure xcode is installed before installing @sweetcom/cli : 
+if your using a mac make sure xcode gcc dependency is installed before installing @sweetcom/cli : 
 ~~~sh
 $ gcc -v 
-#if it propose to you to install xcode do it
+#if it propose to you to install xcode module do it, elsewhere you will get a version number running the gcc -v 
 ~~~
 
 For more information please visit [@sweet/cli](http://cli.sweetcom75.fr/) official website.
