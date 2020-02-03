@@ -1,6 +1,6 @@
 {
     "name": "@sweetcom/cli",
-    "version": "0.0.7",
+    "version": "0.0.8",
     "description": "Client that allows to develop react applications faster",
     "main": "index.js",
     "bin": {
