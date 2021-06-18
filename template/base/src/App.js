@@ -9,7 +9,7 @@ class App extends Component {
           <h1 className="App-title">Welcome to Sweet React Application</h1>
         </header>
         <p className="App-intro">
-          HOT MODULE REPLACEMENT IS ON, so :
+          HOT MODULE REPLACEMENT is on so :
           <br/>
           do not reload the browser
            <br />
